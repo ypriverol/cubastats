@@ -1,0 +1,47 @@
+artificial intelligence
+neural network
+bayesian network
+chatbot
+clustering
+classification
+combinatorial explosion
+computational creativity
+data mining
+data science
+decision model
+statistical learning
+deep learning
+descriptive model
+genetic algorithm
+inductive reasoning
+inductive logic programming
+machine learning
+natural language processing
+natural language generation
+language generation
+optical character recognition
+character recognition
+pattern recognition
+optical character recognition
+overfitting
+underfitting
+predictive analytics
+predictive model
+predictive modelling
+predictive algorithm
+data pruning
+regression
+reinforcement learning
+supervised learning
+unsupervised learning
+swarm intelligence
+target function
+cross validation
+analogical reasoning
+backpropagation
+markov
+random forest
+random walk
+decision tree
+computer vision
+data mining
