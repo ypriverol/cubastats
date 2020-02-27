@@ -12,6 +12,10 @@ cache:
 
 install:
   - pip install jupyter
+  - pip install pandas
+  - pip install seaborn
+  - pip install plotly
+  - pip install plotly-express
 
 script:
   - jupyter nbconvert ciencia/ciencia.ipynb --to html --output index.html
