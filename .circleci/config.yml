@@ -17,6 +17,7 @@ jobs:
       - run:
           name: Test
           command: |
+            source ~/venv/bin/activate
             jupyter nbconvert ciencia/ciencia.ipynb --to html --output index.html
 
 workflows:
