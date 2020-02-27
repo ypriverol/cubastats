@@ -14,7 +14,7 @@ install:
   - pip install jupyter
 
 script:
-  - jupyter nbconvert ciencia/ciencia.ipynb --to html --output ciencia/index.html
+  - jupyter nbconvert ciencia/ciencia.ipynb --to html --output index.html
 
 deploy:
   provider: pages
