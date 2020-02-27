@@ -20,6 +20,7 @@ install:
   - pip install nbformat
 
 script:
+  - pip list
   - jupyter nbconvert ciencia/ciencia.ipynb --to html --output index.html
 
 deploy:
