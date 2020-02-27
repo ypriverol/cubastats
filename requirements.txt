@@ -3,3 +3,5 @@ pandas
 seaborn
 plotly
 plotly-express
+chart_studio
+nbformat==4.4.0

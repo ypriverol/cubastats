@@ -12,15 +12,9 @@ cache:
 
 install:
   - pip install jupyter
-  - pip install pandas
-  - pip install seaborn
-  - pip install plotly
-  - pip install plotly-express
-  - pip install chart_studio
-  - pip install nbformat
 
 script:
-  - pip list
+  - pip install -r requirements.txt
   - jupyter nbconvert ciencia/ciencia.ipynb --to html --output index.html
 
 deploy:
