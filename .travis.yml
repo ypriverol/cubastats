@@ -16,6 +16,7 @@ install:
   - pip install seaborn
   - pip install plotly
   - pip install plotly-express
+  - pip install chart_studio
   - pip install nbformat
 
 script:
