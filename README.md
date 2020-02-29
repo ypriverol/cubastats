@@ -1,8 +1,10 @@
 # CubaStats 
 
-Una serie de análisis estadisticos sobre diferentes renglones de la vida Común en Cuba. Algunos resultados pueden observarse en: 
+This is a repo that collect a couple of projects implemented by @ypriverol: 
 
-- Ciencia en Cuba en las últimas dos décadas (https://ypriverol.github.io/cubastats/ciencia/)
+- Cuba Science (Ciencia Cubana)(https://github.com/ypriverol/cubascience)
+
+
 
 
 
